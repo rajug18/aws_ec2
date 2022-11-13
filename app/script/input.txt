@@ -1,3 +1,3 @@
 [my-input]
 input_path = C:\Users\Raj\OneDrive\Desktop\CICD in aws ec2\app\input
-script_path = 
+output_path
